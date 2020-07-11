@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b058395b-8463-4060-a44d-f2c68c553c0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1c7ZOq418h4q3JYC5jVYgJdO41s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b058395b-8463-4060-a44d-f2c68c553c0c" name="Default Changelist" comment="" />
+      <created>1589881562949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589881562949</updated>
+      <workItem from="1589881565090" duration="1477000" />
+      <workItem from="1589992949550" duration="4341000" />
+      <workItem from="1590819972026" duration="6000" />
+      <workItem from="1590820001703" duration="18000" />
+      <workItem from="1590820165459" duration="20478000" />
+      <workItem from="1590908614614" duration="18006000" />
+      <workItem from="1591161522098" duration="86000" />
+      <workItem from="1591161987875" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="123" key="#Inspections" timestamp="1589998162523">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="233" y="123" key="#Inspections/0.0.1280.930@0.0.1280.930" timestamp="1589998162523" />
+    <state x="233" y="123" width="814" height="729" key="#Intentions" timestamp="1590844067355">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="233" y="123" width="814" height="729" key="#Intentions/0.0.1280.930@0.0.1280.930" timestamp="1590844067355" />
+    <state x="396" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590820384019">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="396" y="255" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.930@0.0.1280.930" timestamp="1590820384019" />
+    <state x="420" y="206" key="FileChooserDialogImpl" timestamp="1591162287308">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="420" y="206" key="FileChooserDialogImpl/0.0.1280.930@0.0.1280.930" timestamp="1591162287308" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
